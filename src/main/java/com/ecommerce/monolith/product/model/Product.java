@@ -1,7 +1,8 @@
+package com.ecommerce.monolith.product.model;
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Positive;
-package com.ecommerce.monolith.product.model;
+
 
 import jakarta.persistence.*;
 import lombok.*;
